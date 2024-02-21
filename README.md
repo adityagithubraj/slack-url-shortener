@@ -13,14 +13,12 @@ A simple URL shortening service built using Node.js, Express, and MongoDB.
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/url-shortener.git
+    git clone https://github.com/adityagithubraj/slack-url-shortener
     ```
 
 2. Navigate to the project directory:
 
-    ```bash
-    cd url-shortener
-    ```
+  
 
 3. Install dependencies:
 
@@ -64,7 +62,4 @@ A simple URL shortening service built using Node.js, Express, and MongoDB.
 
 Contributions are welcome! Feel free to open issues or submit pull requests to contribute to this project.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
